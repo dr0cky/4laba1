@@ -70,3 +70,4 @@ C:\Users\Witsuser\Desktop\ОАИП\autoservice\323123123\obj\Debug\RasstegaevAut
 C:\Users\Witsuser\Desktop\ОАИП\autoservice\323123123\obj\Debug\RasstegaevAutoservice.csproj.CopyComplete
 C:\Users\Witsuser\Desktop\ОАИП\autoservice\323123123\obj\Debug\RasstegaevAutoservice.exe
 C:\Users\Witsuser\Desktop\ОАИП\autoservice\323123123\obj\Debug\RasstegaevAutoservice.pdb
+C:\Users\Witsuser\Desktop\ОАИП\autoservice\323123123\obj\Debug\RasstegaevAutoservice.csproj.AssemblyReference.cache
