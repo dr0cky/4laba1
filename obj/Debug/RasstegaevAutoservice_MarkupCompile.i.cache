@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\dada\obj\Release\
+C:\Users\Witsuser\Desktop\ОАИП\autoservice\dada\obj\Debug\
 RasstegaevAutoservice
 none
 false
-TRACE
+DEBUG;TRACE
 C:\Users\Witsuser\Desktop\ОАИП\autoservice\dada\App.xaml
 31483729377
 2-1174278673
-221483913116
+23641553749
 27211978419
 AddEditPage.xaml;MainWindow.xaml;ServicePage.xaml;
 
-True
+False
 
