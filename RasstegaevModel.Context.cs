@@ -7,24 +7,16 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace RasstegaevAutoservice
+namespace AnvarovAvtosevice
 {
     using System;
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class RasstegaevServiceEntities1 : DbContext
+    public partial class RasstegaevServiceEntities : DbContext
     {
-        private static RasstegaevServiceEntities1 _context;
-
-        public static RasstegaevServiceEntities1 GetContext()
-        {
-            if (_context == null)
-                _context = new RasstegaevServiceEntities1();
-            return _context;
-        }
-        public RasstegaevServiceEntities1()
-            : base("name=RasstegaevServiceEntities1")
+        public RasstegaevServiceEntities()
+            : base("name=RasstegaevServiceEntities")
         {
         }
     
@@ -44,5 +36,17 @@ namespace RasstegaevAutoservice
         public virtual DbSet<Service> Service { get; set; }
         public virtual DbSet<ServicePhoto> ServicePhoto { get; set; }
         public virtual DbSet<Tag> Tag { get; set; }
+        private static RasstegaevServiceEntities _context;
+
+        public static RasstegaevServiceEntities GetContext()
+        {
+            if (_context == null)
+            {
+                _context = new RasstegaevServiceEntities();
+            }
+
+            return _context;
+        }
+
     }
 }

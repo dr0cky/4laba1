@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
-  <EntityContainerMapping StorageEntityContainer="Хранилище RasstegaevServiceModelContainer" CdmEntityContainer="RasstegaevServiceEntities1">
+  <EntityContainerMapping StorageEntityContainer="Хранилище RasstegaevServiceModelContainer" CdmEntityContainer="RasstegaevServiceEntities">
     <EntitySetMapping Name="Client">
       <EntityTypeMapping TypeName="RasstegaevServiceModel.Client">
         <MappingFragment StoreEntitySet="Client">
@@ -91,10 +91,11 @@
         <MappingFragment StoreEntitySet="Service">
           <ScalarProperty Name="ID" ColumnName="ID" />
           <ScalarProperty Name="Title" ColumnName="Title" />
-          <ScalarProperty Name="MainimagePath" ColumnName="MainimagePath" />
+          <ScalarProperty Name="MainImagePath" ColumnName="MainImagePath" />
           <ScalarProperty Name="Duration" ColumnName="Duration" />
           <ScalarProperty Name="Cost" ColumnName="Cost" />
           <ScalarProperty Name="Discount" ColumnName="Discount" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>

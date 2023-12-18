@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace RasstegaevAutoservice
+namespace AnvarovAvtosevice
 {
     /// <summary>
     /// Логика взаимодействия для MainWindow.xaml

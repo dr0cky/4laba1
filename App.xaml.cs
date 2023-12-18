@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace RasstegaevAutoservice
+namespace AnvarovAvtosevice
 {
     /// <summary>
     /// Логика взаимодействия для App.xaml

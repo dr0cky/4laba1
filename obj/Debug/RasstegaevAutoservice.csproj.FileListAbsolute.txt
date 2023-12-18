@@ -1,99 +1,55 @@
-D:\domawka\Timaweva\3laba\RasstegaevAutoservice\bin\Debug\RasstegaevAutoservice.exe.config
-D:\domawka\Timaweva\3laba\RasstegaevAutoservice\bin\Debug\RasstegaevAutoservice.exe
-D:\domawka\Timaweva\3laba\RasstegaevAutoservice\bin\Debug\RasstegaevAutoservice.pdb
-D:\domawka\Timaweva\3laba\RasstegaevAutoservice\obj\Debug\RasstegaevAutoservice.csproj.AssemblyReference.cache
-D:\domawka\Timaweva\3laba\RasstegaevAutoservice\obj\Debug\MainWindow.g.cs
-D:\domawka\Timaweva\3laba\RasstegaevAutoservice\obj\Debug\App.g.cs
-D:\domawka\Timaweva\3laba\RasstegaevAutoservice\obj\Debug\RasstegaevAutoservice_MarkupCompile.cache
-D:\domawka\Timaweva\3laba\RasstegaevAutoservice\obj\Debug\RasstegaevAutoservice_MarkupCompile.lref
-D:\domawka\Timaweva\3laba\RasstegaevAutoservice\obj\Debug\MainWindow.baml
-D:\domawka\Timaweva\3laba\RasstegaevAutoservice\obj\Debug\RasstegaevAutoservice.g.resources
-D:\domawka\Timaweva\3laba\RasstegaevAutoservice\obj\Debug\RasstegaevAutoservice.Properties.Resources.resources
-D:\domawka\Timaweva\3laba\RasstegaevAutoservice\obj\Debug\RasstegaevAutoservice.csproj.GenerateResource.cache
-D:\domawka\Timaweva\3laba\RasstegaevAutoservice\obj\Debug\RasstegaevAutoservice.csproj.CoreCompileInputs.cache
-D:\domawka\Timaweva\3laba\RasstegaevAutoservice\obj\Debug\RasstegaevAutoservice.exe
-D:\domawka\Timaweva\3laba\RasstegaevAutoservice\obj\Debug\RasstegaevAutoservice.pdb
-D:\domawka\Timaweva\3laba\RasstegaevAutoservice\obj\Debug\AddEditPage.g.cs
-D:\domawka\Timaweva\3laba\RasstegaevAutoservice\obj\Debug\ServicePage.g.cs
-D:\domawka\Timaweva\3laba\RasstegaevAutoservice\obj\Debug\AddEditPage.baml
-D:\domawka\Timaweva\3laba\RasstegaevAutoservice\obj\Debug\ServicePage.baml
-D:\domawka\Timaweva\3laba\RasstegaevAutoservice\obj\Debug\App.baml
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\RasstegaevAutoService-main\obj\Debug\RasstegaevAutoservice.csproj.AssemblyReference.cache
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\RasstegaevAutoService-main\obj\Debug\AddEditPage.g.cs
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\RasstegaevAutoService-main\obj\Debug\MainWindow.g.cs
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\RasstegaevAutoService-main\obj\Debug\ServicePage.g.cs
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\RasstegaevAutoService-main\obj\Debug\App.g.cs
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\RasstegaevAutoService-main\obj\Debug\RasstegaevAutoservice_Content.g.cs
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\RasstegaevAutoService-main\obj\Debug\RasstegaevAutoservice_MarkupCompile.cache
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\RasstegaevAutoService-main\obj\Debug\RasstegaevAutoservice_MarkupCompile.lref
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\RasstegaevAutoService-main\obj\Debug\RasstegaevAutoservice.exe
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\RasstegaevAutoService-main\obj\Debug\RasstegaevAutoservice.pdb
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\RasstegaevAutoService-main\bin\Debug\RasstegaevAutoservice.exe.config
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\RasstegaevAutoService-main\bin\Debug\RasstegaevAutoservice.exe
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\RasstegaevAutoService-main\bin\Debug\RasstegaevAutoservice.pdb
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\RasstegaevAutoService-main\bin\Debug\EntityFramework.dll
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\RasstegaevAutoService-main\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\RasstegaevAutoService-main\bin\Debug\EntityFramework.xml
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\RasstegaevAutoService-main\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\RasstegaevAutoService-main\obj\Debug\App.baml
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\RasstegaevAutoService-main\obj\Debug\AddEditPage.baml
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\RasstegaevAutoService-main\obj\Debug\MainWindow.baml
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\RasstegaevAutoService-main\obj\Debug\ServicePage.baml
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\RasstegaevAutoService-main\obj\Debug\RasstegaevAutoservice.g.resources
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\RasstegaevAutoService-main\obj\Debug\RasstegaevAutoservice.Properties.Resources.resources
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\RasstegaevAutoService-main\obj\Debug\RasstegaevAutoservice.csproj.GenerateResource.cache
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\RasstegaevAutoService-main\obj\Debug\RasstegaevAutoservice.csproj.CoreCompileInputs.cache
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\RasstegaevAutoService-main\obj\Debug\RasstegaevAutoservice.csproj.CopyComplete
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\RasstegaevAutoService-main\obj\Debug\RasstegaevAutoservice.csproj.SuggestedBindingRedirects.cache
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\323123123\obj\Debug\AddEditPage.g.cs
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\323123123\obj\Debug\MainWindow.g.cs
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\323123123\obj\Debug\ServicePage.g.cs
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\323123123\obj\Debug\App.g.cs
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\323123123\obj\Debug\RasstegaevAutoservice_Content.g.cs
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\323123123\obj\Debug\RasstegaevAutoservice_MarkupCompile.cache
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\323123123\obj\Debug\RasstegaevAutoservice_MarkupCompile.lref
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\323123123\bin\Debug\RasstegaevAutoservice.exe.config
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\323123123\bin\Debug\RasstegaevAutoservice.exe
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\323123123\bin\Debug\RasstegaevAutoservice.pdb
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\323123123\bin\Debug\EntityFramework.dll
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\323123123\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\323123123\bin\Debug\EntityFramework.xml
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\323123123\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\323123123\obj\Debug\App.baml
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\323123123\obj\Debug\AddEditPage.baml
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\323123123\obj\Debug\MainWindow.baml
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\323123123\obj\Debug\ServicePage.baml
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\323123123\obj\Debug\RasstegaevAutoservice.g.resources
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\323123123\obj\Debug\RasstegaevAutoservice.Properties.Resources.resources
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\323123123\obj\Debug\RasstegaevAutoservice.csproj.GenerateResource.cache
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\323123123\obj\Debug\RasstegaevAutoservice.csproj.CoreCompileInputs.cache
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\323123123\obj\Debug\RasstegaevAutoservice.csproj.CopyComplete
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\323123123\obj\Debug\RasstegaevAutoservice.exe
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\323123123\obj\Debug\RasstegaevAutoservice.pdb
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\323123123\obj\Debug\RasstegaevAutoservice.csproj.AssemblyReference.cache
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\dada\bin\Debug\RasstegaevAutoservice.exe.config
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\dada\bin\Debug\RasstegaevAutoservice.exe
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\dada\bin\Debug\RasstegaevAutoservice.pdb
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\dada\bin\Debug\EntityFramework.dll
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\dada\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\dada\bin\Debug\EntityFramework.xml
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\dada\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\dada\obj\Debug\RasstegaevAutoservice.csproj.AssemblyReference.cache
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\dada\obj\Debug\AddEditPage.g.cs
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\dada\obj\Debug\MainWindow.g.cs
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\dada\obj\Debug\ServicePage.g.cs
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\dada\obj\Debug\App.g.cs
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\dada\obj\Debug\RasstegaevAutoservice_Content.g.cs
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\dada\obj\Debug\RasstegaevAutoservice_MarkupCompile.cache
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\dada\obj\Debug\RasstegaevAutoservice_MarkupCompile.lref
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\dada\obj\Debug\App.baml
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\dada\obj\Debug\AddEditPage.baml
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\dada\obj\Debug\MainWindow.baml
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\dada\obj\Debug\ServicePage.baml
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\dada\obj\Debug\RasstegaevAutoservice.g.resources
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\dada\obj\Debug\RasstegaevAutoservice.Properties.Resources.resources
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\dada\obj\Debug\RasstegaevAutoservice.csproj.GenerateResource.cache
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\dada\obj\Debug\RasstegaevAutoservice.csproj.CoreCompileInputs.cache
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\dada\obj\Debug\RasstegaevAutoservice.csproj.CopyComplete
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\dada\obj\Debug\RasstegaevAutoservice.exe
-C:\Users\Witsuser\Desktop\ОАИП\autoservice\dada\obj\Debug\RasstegaevAutoservice.pdb
+D:\domawka\Timaweva\sda4a v 4etverg\AnvarovAvtosevice\AnvarovAvtosevice\obj\Debug\ServicePage.g.cs
+D:\domawka\Timaweva\sda4a v 4etverg\AnvarovAvtosevice\AnvarovAvtosevice\obj\Debug\SignUpPage.g.cs
+D:\domawka\Timaweva\sda4a v 4etverg\AnvarovAvtosevice\AnvarovAvtosevice\obj\Debug\AnvarovAvtosevice_Content.g.cs
+D:\domawka\Timaweva\sda4a v 4etverg\AnvarovAvtosevice\AnvarovAvtosevice\obj\Debug\AnvarovAvtosevice_MarkupCompile.cache
+D:\domawka\Timaweva\sda4a v 4etverg\AnvarovAvtosevice\AnvarovAvtosevice\obj\Debug\AnvarovAvtosevice_MarkupCompile.lref
+D:\domawka\Timaweva\sda4a v 4etverg\AnvarovAvtosevice\AnvarovAvtosevice\obj\Debug\AnvarovAvtosevice.exe
+D:\domawka\Timaweva\sda4a v 4etverg\AnvarovAvtosevice\AnvarovAvtosevice\obj\Debug\AnvarovAvtosevice.pdb
+D:\domawka\Timaweva\sda4a v 4etverg\AnvarovAvtosevice\AnvarovAvtosevice\bin\Debug\AnvarovAvtosevice.exe.config
+D:\domawka\Timaweva\sda4a v 4etverg\AnvarovAvtosevice\AnvarovAvtosevice\bin\Debug\AnvarovAvtosevice.exe
+D:\domawka\Timaweva\sda4a v 4etverg\AnvarovAvtosevice\AnvarovAvtosevice\bin\Debug\AnvarovAvtosevice.pdb
+D:\domawka\Timaweva\sda4a v 4etverg\AnvarovAvtosevice\AnvarovAvtosevice\bin\Debug\EntityFramework.dll
+D:\domawka\Timaweva\sda4a v 4etverg\AnvarovAvtosevice\AnvarovAvtosevice\bin\Debug\EntityFramework.SqlServer.dll
+D:\domawka\Timaweva\sda4a v 4etverg\AnvarovAvtosevice\AnvarovAvtosevice\bin\Debug\EntityFramework.xml
+D:\domawka\Timaweva\sda4a v 4etverg\AnvarovAvtosevice\AnvarovAvtosevice\bin\Debug\EntityFramework.SqlServer.xml
+D:\domawka\Timaweva\sda4a v 4etverg\AnvarovAvtosevice\AnvarovAvtosevice\bin\Debug\ru\EntityFramework.resources.dll
+D:\domawka\Timaweva\sda4a v 4etverg\AnvarovAvtosevice\AnvarovAvtosevice\obj\Debug\AddEditPage.g.cs
+D:\domawka\Timaweva\sda4a v 4etverg\AnvarovAvtosevice\AnvarovAvtosevice\obj\Debug\MainWindow.g.cs
+D:\domawka\Timaweva\sda4a v 4etverg\AnvarovAvtosevice\AnvarovAvtosevice\obj\Debug\App.g.cs
+D:\domawka\Timaweva\sda4a v 4etverg\AnvarovAvtosevice\AnvarovAvtosevice\obj\Debug\App.baml
+D:\domawka\Timaweva\sda4a v 4etverg\AnvarovAvtosevice\AnvarovAvtosevice\obj\Debug\AddEditPage.baml
+D:\domawka\Timaweva\sda4a v 4etverg\AnvarovAvtosevice\AnvarovAvtosevice\obj\Debug\MainWindow.baml
+D:\domawka\Timaweva\sda4a v 4etverg\AnvarovAvtosevice\AnvarovAvtosevice\obj\Debug\ServicePage.baml
+D:\domawka\Timaweva\sda4a v 4etverg\AnvarovAvtosevice\AnvarovAvtosevice\obj\Debug\SignUpPage.baml
+D:\domawka\Timaweva\sda4a v 4etverg\AnvarovAvtosevice\AnvarovAvtosevice\obj\Debug\AnvarovAvtosevice.g.resources
+D:\domawka\Timaweva\sda4a v 4etverg\AnvarovAvtosevice\AnvarovAvtosevice\obj\Debug\AnvarovAvtosevice.Properties.Resources.resources
+D:\domawka\Timaweva\sda4a v 4etverg\AnvarovAvtosevice\AnvarovAvtosevice\obj\Debug\RasstegaevAutoservice.csproj.GenerateResource.cache
+D:\domawka\Timaweva\sda4a v 4etverg\AnvarovAvtosevice\AnvarovAvtosevice\obj\Debug\RasstegaevAutoservice.csproj.CoreCompileInputs.cache
+D:\domawka\Timaweva\sda4a v 4etverg\AnvarovAvtosevice\AnvarovAvtosevice\obj\Debug\RasstegaevAutoservice.csproj.CopyComplete
+D:\domawka\Timaweva\sda4a v 4etverg1\4laba1\bin\Debug\AnvarovAvtosevice.exe.config
+D:\domawka\Timaweva\sda4a v 4etverg1\4laba1\bin\Debug\AnvarovAvtosevice.exe
+D:\domawka\Timaweva\sda4a v 4etverg1\4laba1\bin\Debug\AnvarovAvtosevice.pdb
+D:\domawka\Timaweva\sda4a v 4etverg1\4laba1\bin\Debug\EntityFramework.xml
+D:\domawka\Timaweva\sda4a v 4etverg1\4laba1\bin\Debug\EntityFramework.SqlServer.xml
+D:\domawka\Timaweva\sda4a v 4etverg1\4laba1\bin\Debug\ru\EntityFramework.resources.dll
+D:\domawka\Timaweva\sda4a v 4etverg1\4laba1\obj\Debug\RasstegaevAutoservice.csproj.AssemblyReference.cache
+D:\domawka\Timaweva\sda4a v 4etverg1\4laba1\obj\Debug\AddEditPage.g.cs
+D:\domawka\Timaweva\sda4a v 4etverg1\4laba1\obj\Debug\MainWindow.g.cs
+D:\domawka\Timaweva\sda4a v 4etverg1\4laba1\obj\Debug\ServicePage.g.cs
+D:\domawka\Timaweva\sda4a v 4etverg1\4laba1\obj\Debug\SignUpPage.g.cs
+D:\domawka\Timaweva\sda4a v 4etverg1\4laba1\obj\Debug\App.g.cs
+D:\domawka\Timaweva\sda4a v 4etverg1\4laba1\obj\Debug\AnvarovAvtosevice_Content.g.cs
+D:\domawka\Timaweva\sda4a v 4etverg1\4laba1\obj\Debug\AnvarovAvtosevice_MarkupCompile.cache
+D:\domawka\Timaweva\sda4a v 4etverg1\4laba1\obj\Debug\AnvarovAvtosevice_MarkupCompile.lref
+D:\domawka\Timaweva\sda4a v 4etverg1\4laba1\obj\Debug\App.baml
+D:\domawka\Timaweva\sda4a v 4etverg1\4laba1\obj\Debug\AddEditPage.baml
+D:\domawka\Timaweva\sda4a v 4etverg1\4laba1\obj\Debug\MainWindow.baml
+D:\domawka\Timaweva\sda4a v 4etverg1\4laba1\obj\Debug\ServicePage.baml
+D:\domawka\Timaweva\sda4a v 4etverg1\4laba1\obj\Debug\SignUpPage.baml
+D:\domawka\Timaweva\sda4a v 4etverg1\4laba1\obj\Debug\AnvarovAvtosevice.g.resources
+D:\domawka\Timaweva\sda4a v 4etverg1\4laba1\obj\Debug\AnvarovAvtosevice.Properties.Resources.resources
+D:\domawka\Timaweva\sda4a v 4etverg1\4laba1\obj\Debug\RasstegaevAutoservice.csproj.GenerateResource.cache
+D:\domawka\Timaweva\sda4a v 4etverg1\4laba1\obj\Debug\RasstegaevAutoservice.csproj.CoreCompileInputs.cache
+D:\domawka\Timaweva\sda4a v 4etverg1\4laba1\obj\Debug\RasstegaevAutoservice.csproj.CopyComplete
+D:\domawka\Timaweva\sda4a v 4etverg1\4laba1\obj\Debug\AnvarovAvtosevice.exe
+D:\domawka\Timaweva\sda4a v 4etverg1\4laba1\obj\Debug\AnvarovAvtosevice.pdb

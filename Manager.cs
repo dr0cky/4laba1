@@ -5,9 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Controls;
 
-namespace RasstegaevAutoservice
+namespace AnvarovAvtosevice
 {
-    internal class Manager
+    class Manager
     {
         public static Frame MainFrame { get; set; }
     }

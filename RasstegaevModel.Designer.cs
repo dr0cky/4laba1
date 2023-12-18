@@ -1,4 +1,4 @@
-﻿// Создание кода T4 для модели "C:\Users\Witsuser\Desktop\ОАИП\autoservice\RasstegaevAutoService-main\RasstegaevModel.edmx" включено. 
+﻿// Создание кода T4 для модели "D:\domawka\Timaweva\sda4a v 4etverg\AnvarovAvtosevice\AnvarovAvtosevice\RasstegaevModel.edmx" включено. 
 // Чтобы включить формирование кода прежних версий, измените значение свойства "Стратегия создания кода" конструктора
 // на "Legacy ObjectContext". Это свойство доступно в окне "Свойства", если модель
 // открыта в конструкторе.

@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace RasstegaevAutoservice
+namespace AnvarovAvtosevice
 {
     using System;
     using System.Collections.Generic;
